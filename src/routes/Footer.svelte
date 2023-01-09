@@ -1,0 +1,1 @@
+<p class="flex justify-center font-semibold text-xl">level up Blog</p>
